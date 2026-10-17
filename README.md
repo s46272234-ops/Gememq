@@ -1,0 +1,2 @@
+# Gememq
+Bot ai gemeni
